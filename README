@@ -1,1 +1,1 @@
-Project moved to http://git.edr.io/projects/PUB/repos/getch/browse
+Implementation of getch() for OS'es that do not support conio.h (POSIX).
